@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 <!--
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axel-aguilar97&hide=stars,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axel-aguilar97&repo=game-stats&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axel-aguilar97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 **axel-aguilar97/axel-aguilar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
