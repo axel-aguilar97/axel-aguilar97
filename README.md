@@ -1,23 +1,57 @@
-### Hi there 👋
+### Hi there
 
-<!--
+<br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axel-aguilar97&hide=stars,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I'm a self-taught on Full Stack Engineer from Argentina 🇦🇷.
+Particularly focused on JavaScript
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axel-aguilar97&repo=game-stats&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axel-aguilar97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+**About me**
 
-**axel-aguilar97/axel-aguilar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 I'm a intermediate english level
+- 🎮 I'm into gaming, playing shooters and into e-sports
+- 💻 I started learning Programming since 13 years old
+- 🔭 I'm working on DevOps Engineer
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Software Skills**
+
+<br />
+
+<p align="center">
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
+</p>
+
+<br />
+
+**Language Stats**
+
+<br />
+
+| <a href="https://github.com/axel-aguilar97"><img align="center" src="https://github-readme-stats.vercel.app/api?username=axel-aguilar97&hide=contribs&count_private=true&show_icons=true&theme=radical" alt="Axel's github stats" /></a> | <a href="https://github.com/axel-aguilar97"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-aguilar97&layout=compact&theme=radical" /></a> |
+| ------------- | ------------- |
+
+<br />
+
+**Pinned project**
+
+<br />
+
+<a href="https://github.com/axel-aguilar97/game-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axel-aguilar97&repo=game-stats&theme=radical&show_owner=true" />
+</a>
